@@ -1,1 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leah Mokoena",
+      "username": "leahm",
+      "email": "leah@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Thabo Nkosi",
+      "username": "thabon",
+      "email": "thabo@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Exploring Soweto",
+      "body": "Today I visited the historic sites in Soweto. It was enlightening."
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Cape Town Vibes",
+      "body": "The view from Table Mountain is breathtaking. Sunsets are unmatched."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Anele Khumalo",
+      "email": "anele@example.com",
+      "body": "Great write-up! I’ve always wanted to go."
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "name": "Sipho Dlamini",
+      "email": "sipho@example.com",
+      "body": "Agree, Cape Town never disappoints."
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Upload travel photos",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Write blog post about Durban",
+      "completed": true
+    }
+  ]
+}
 
