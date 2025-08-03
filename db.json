@@ -1,6 +1,8 @@
-[
-  {
-    "id": 1,
-    "link": "www.google.com"
-  }
-]
+{
+  "links": [
+    {
+      "id": 1,
+      "link": "www.google.com"
+    }
+  ]
+}
